@@ -1,0 +1,19 @@
+# Source dataset - excluded until redistribution permissions are verified
+Dataset/all_matches.csv
+
+# Power BI temporary and backup files
+*.tmp
+*.bak
+~*.pbix
+
+# Temporary files and folders
+temp/
+tmp/
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
